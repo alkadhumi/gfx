@@ -1,14 +1,15 @@
 ﻿{
   "name": "عراق جرافيك",
   "short_name": "iqgfx",
-  "display": "standalone",
+  "display": "fullscreen",
   "prefer_related_applications": false,
   "start_url": ".",
   "scope": "/",
   "background_color": "#fff",
   "theme_color": "#016fba",
   "description": "موقع يعتني بالتصميم ويعرض أحدث ادوات التصميم وقوالب تصميم الفوتوشوب الشرقية.",
-  "lang": "ar",
+  "lang": "ar-AR",
+  "dir": "rtl",
   "icons": [
     {
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTBiOawegZD5BN6MHw2frr6X234W4Lg6EiXlCw4b18G3yJZwQnDczvAxIWdrQSCFUX9hVHHKHLQ2CRhA7nXdU0UFBavmxXyjykYN7cAHxXFpk29NeFfgNm3P0HZhMRglvRm4ejkLak0dHwxfb9iPCkNnozCnnujwNORrF4N9nTEsgiKDsT8EDgUprKSQ/s36/logogfx.png",
