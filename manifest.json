@@ -2,9 +2,8 @@
   "name": "عراق جرافيك",
   "short_name": "iqgfx",
   "display": "fullscreen",
-  "prefer_related_applications": false,
-  "start_url": ".",
-  "scope": "/",
+  "prefer_related_applications": true,
+  "start_url": "https://iqgfx.blogspot.com",
   "background_color": "#fff",
   "theme_color": "#016fba",
   "description": "موقع يعتني بالتصميم ويعرض أحدث ادوات التصميم وقوالب تصميم الفوتوشوب الشرقية.",
@@ -16,49 +15,42 @@
       "sizes": "36x36",
       "type": "image/png",
       "density": "0.75",
-      "purpose": "any maskable"
     },
     {
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTBiOawegZD5BN6MHw2frr6X234W4Lg6EiXlCw4b18G3yJZwQnDczvAxIWdrQSCFUX9hVHHKHLQ2CRhA7nXdU0UFBavmxXyjykYN7cAHxXFpk29NeFfgNm3P0HZhMRglvRm4ejkLak0dHwxfb9iPCkNnozCnnujwNORrF4N9nTEsgiKDsT8EDgUprKSQ/s48/logogfx.png",
       "sizes": "48x48",
       "type": "image/png",
       "density": "1.0",
-      "purpose": "any maskable"
     },
     {
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTBiOawegZD5BN6MHw2frr6X234W4Lg6EiXlCw4b18G3yJZwQnDczvAxIWdrQSCFUX9hVHHKHLQ2CRhA7nXdU0UFBavmxXyjykYN7cAHxXFpk29NeFfgNm3P0HZhMRglvRm4ejkLak0dHwxfb9iPCkNnozCnnujwNORrF4N9nTEsgiKDsT8EDgUprKSQ/s72/logogfx.png",
       "sizes": "72x72",
       "type": "image/png",
       "density": "1.5",
-      "purpose": "any maskable"
     },
     {
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTBiOawegZD5BN6MHw2frr6X234W4Lg6EiXlCw4b18G3yJZwQnDczvAxIWdrQSCFUX9hVHHKHLQ2CRhA7nXdU0UFBavmxXyjykYN7cAHxXFpk29NeFfgNm3P0HZhMRglvRm4ejkLak0dHwxfb9iPCkNnozCnnujwNORrF4N9nTEsgiKDsT8EDgUprKSQ/s96/logogfx.png",
       "sizes": "96x96",
       "type": "image/png",
       "density": "2.0",
-      "purpose": "any maskable"
     },
     {
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTBiOawegZD5BN6MHw2frr6X234W4Lg6EiXlCw4b18G3yJZwQnDczvAxIWdrQSCFUX9hVHHKHLQ2CRhA7nXdU0UFBavmxXyjykYN7cAHxXFpk29NeFfgNm3P0HZhMRglvRm4ejkLak0dHwxfb9iPCkNnozCnnujwNORrF4N9nTEsgiKDsT8EDgUprKSQ/s144/logogfx.png",
       "sizes": "144x144",
       "type": "image/png",
       "density": "3.0",
-      "purpose": "any maskable"
     },
     {
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTBiOawegZD5BN6MHw2frr6X234W4Lg6EiXlCw4b18G3yJZwQnDczvAxIWdrQSCFUX9hVHHKHLQ2CRhA7nXdU0UFBavmxXyjykYN7cAHxXFpk29NeFfgNm3P0HZhMRglvRm4ejkLak0dHwxfb9iPCkNnozCnnujwNORrF4N9nTEsgiKDsT8EDgUprKSQ/s192/logogfx.png",
       "sizes": "192x192",
       "type": "image/png",
       "density": "4.0",
-      "purpose": "any maskable"
     },
     {
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTBiOawegZD5BN6MHw2frr6X234W4Lg6EiXlCw4b18G3yJZwQnDczvAxIWdrQSCFUX9hVHHKHLQ2CRhA7nXdU0UFBavmxXyjykYN7cAHxXFpk29NeFfgNm3P0HZhMRglvRm4ejkLak0dHwxfb9iPCkNnozCnnujwNORrF4N9nTEsgiKDsT8EDgUprKSQ/s512/logogfx.png",
       "sizes": "512x512",
       "type": "image/png",
       "density": "4.0",
-      "purpose": "any maskable"
     }
   ]
 }
